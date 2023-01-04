@@ -1631,8 +1631,11 @@ input[type='checkbox'] {
 
 .heading-border{
 	border: 6px dotted #0369A5;
-	background-color: orange;
+	background-color: #003764;
 	/* margin: 1%; */
+}
+.heading-border:hover{
+	background-color: orange;
 }
 .team{
 	background-color: #003764;
